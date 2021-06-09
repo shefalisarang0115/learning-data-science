@@ -21,6 +21,3 @@ welcome
 >>> item3="groceries"
 >>> print("Expense items:",item1,item2,item3)
 Expense items: rent gas groceries
->>> True = 4
-SyntaxError: cannot assign to True
->>> 
